@@ -1,0 +1,44 @@
+body{
+    background: linear-gradient(#f7c5f8 0%, #c6f8c5 100%);
+    text-align: center;
+}
+
+.buttonDesigning{
+    border-radius: 20px;
+    width: 30%;
+    font-size: large;
+    border-color: honeydew;
+    box-shadow: 2px 2px 2px rgb(232, 233, 219);
+}
+
+.copyRightFooter{
+    color: rgb(255, 255, 255);
+    background-color: #8ac789;
+    font-size: 20px;
+    bottom: 0;
+    width: 100%;
+    border-radius: 7px;
+    border-color: 2px 2px 2px #c3f3c2;
+    line-height: 2;
+    position: fixed;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px rgb(119, 119, 119);
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#status, #no_objects{
+    font-size: 18px;
+}
+
+.back_button{
+    font-size: 18px;
+}
